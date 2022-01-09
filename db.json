@@ -1,0 +1,32 @@
+{
+  "aapl": {
+    "companyName": "Apple",
+    "symbol": "AAPL",
+    "latestPrice": 171.80,
+    "change": 0.14
+  },
+  "msft": {
+    "companyName": "Microsoft",
+    "symbol": "MSFT",
+    "latestPrice": 313.63,
+    "change": 0.35
+  },
+  "goog": {
+    "companyName": "Alphabet, Class C",
+    "symbol": "GOOG",
+    "latestPrice": 2739.00,
+    "change": 2.28
+  },
+  "amzn": {
+    "companyName": "Amazon",
+    "symbol": "AMZN",
+    "latestPrice": 3249.44,
+    "change": 3.22
+  },
+  "fb": {
+    "companyName": "Meta Platforms",
+    "symbol": "FB",
+    "latestPrice": 332.39,
+    "change": 1.01
+  }
+}
